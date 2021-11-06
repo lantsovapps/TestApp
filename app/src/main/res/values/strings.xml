@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinRecipeApp</string>
+    <string name="btn_start">SEARCH</string>
+</resources>
